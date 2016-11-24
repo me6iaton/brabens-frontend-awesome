@@ -21,6 +21,7 @@
 * [gulp-sass](https://github.com/dlmanning/gulp-sass)
 * [gulp-sourcemaps](https://github.com/floridoo/gulp-sourcemaps)
 * [run-sequence](https://github.com/teambition/gulp-sequence)
+* [babel](https://github.com/babel/babel)
 * [babel-plugin-lodash](https://github.com/lodash/babel-plugin-lodash)
 * [babel-plugin-ramda](https://github.com/megawac/babel-plugin-ramda)
 * [webpack](https://github.com/webpack/webpack)
