@@ -33,3 +33,9 @@
 * [HOC](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.x4t64stt6)
 * [HOC gist](https://gist.github.com/sebmarkbage/ef0bf1f338a7182b6775)
 * [ducks-modular-redux](https://github.com/erikras/ducks-modular-redux)
+
+### need research
+* [Reducer Composition with Effects](https://github.com/reactjs/redux/issues/1528)
+* [redux-saga](https://github.com/yelouafi/redux-saga)
+* [redux-loop](https://github.com/redux-loop/redux-loop)
+* [elm-architecture-tutorial](https://github.com/evancz/elm-architecture-tutorial)
